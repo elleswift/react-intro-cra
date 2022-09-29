@@ -10,10 +10,11 @@ function App() {
   
   return (
     <div className ='App-header'>
-        <CompWithFragment />
+
+        <ColorComp />
         <CounterComp />
         <SuperSimpleComp />
-        <ColorComp />
+        <CompWithFragment />
      </div>
   );
 }
